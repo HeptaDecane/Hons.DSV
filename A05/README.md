@@ -1,5 +1,5 @@
 ### Problem Statement
-Use the dataset in assignment 4 (Abalone dataset).
+Use the dataset in assignment 4 (Abalone Dataset).
 - Load the data from data file.  
 - Explore the shape of dataset.  
 - Summarize the properties in the training dataset. Write findings from column description.  
